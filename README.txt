@@ -1,4 +1,6 @@
-# Task Management App.
+### This project utilizes JavaScript for its implementation.
+
+## Task Management App.
 This is a backend project for managing tasks and user authentication.
 
 
@@ -72,6 +74,3 @@ It includes features such as user registration, verification, login, password-ch
 - `PATCH /api/tasks/updatesingletask` - Update a task by query method.
 - `DELETE /api/tasks/deletesingletask` - Delete a task.
 - `DELETE /api/tasks/deletealltasks` - Delete all tasks by query method.
-
-
-
