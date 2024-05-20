@@ -1,4 +1,4 @@
-### This project utilizes JavaScript for its implementation.
+### This project utilizes JavaScript and Node.js for its implementation.
 
 ## Task Management App.
 This is a backend project for managing tasks and user authentication.
