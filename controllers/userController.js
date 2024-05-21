@@ -88,7 +88,7 @@ const registerUser = asynchandler(async (req, res) => {
         <p> Please use the URL below to verify your registration </p>
         <a href=${verifyUrl} clicktracking="off">${verifyUrl}</a>
         <p> Regards ... </p>
-        <p>NIYO Group. </p>`;
+        <p>[...Company Name]. </p>`;
 
     const subject = "Verify Registration Request";
     const send_to = user.email;
