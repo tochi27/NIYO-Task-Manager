@@ -47,11 +47,11 @@ It includes features such as user registration, verification, login, password-ch
     EMAIL_PASS= 
     FRONTENDURL="" #THIS SHOULD BE THE FRONTEND URL SO THAT LINKS CAN BE DYNAMICALY CREATED WHEN NEEDED FOR REGISTRATION, VERIFICATION, PASSWORD RESET AND THE REST
     BACKENDURL=http://localhost:6000/api/
-
   ]
 4. Start the server using `npx nodemon`.
-5. Test environment used is Postman. See Postman documentation url here - https://documenter.getpostman.com/view/28967699/2sA3JT2xqu
+5. Test environment used is Postman. See Postman documentation URL here - https://documenter.getpostman.com/view/28967699/2sA3JT2xqu
     [Other Backend tools and platforms like, Insomnia and Swagger UI can be used for tests.]
+6. The live hosting environment utilized is Render. You can find the Render hosted-site URL here: - https://niyo-task-manager.onrender.com/
 
 ## Usage
 1. Register a new user using the `/api/users/register` endpoint.
